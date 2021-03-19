@@ -22,11 +22,16 @@ const Navbar = () => {
                     <li><NavLink to="/projects" activeClassName="selected">Projects</NavLink></li>
                     <li><NavLink to="/personal_letter" activeClassName="selected">Personal Letter</NavLink></li>
                     <p className="social-icons">
-                        <SiGithub className="social-icon" size="1.5rem" color="white">
-                            <a href="https://github.com/hui1010" target="_blank"></a> 
-                        </SiGithub>
-                        <SiLinkedin className="social-icon" size="1.5rem" color="#0072b1"/>
-                        <SiGmail className="social-icon" size="1.5rem" color="#C5221E"/>
+                        <a className="social-icon" href="https://github.com/hui1010" target="_blank">
+                        <SiGithub size="1.5rem" color="white" />
+                        </a>
+                        <a className="social-icon" href="https://www.linkedin.com/in/sk%C3%A5rner-huiyi-b2345b1b9/" target="_blank">
+                           <SiLinkedin  size="1.5rem" color="#0072b1"/> 
+                        </a>
+                        <a className="social-icon" href="mailto:huiyi.skarner@gmail.com" target="_blank">
+                           <SiGmail className="social-icon" size="1.5rem" color="#C5221E"/> 
+                        </a>
+                        
                     </p>
                 </ul>
             </div>

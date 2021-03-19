@@ -8,10 +8,10 @@ const PersonalLetter = () => {
         <>
         <Header text="Personal Letter" />
         <BsPaperclip className="paper-clip" />
-        <div class="pl">
-            <p>Hey! How fun that you found your way here. Let's learn more about Huiyi, shall we?</p>
+        <div className="pl">
+            <p className="greeting">Hey! How fun that you found your way here. Let's learn more about Huiyi, shall we?</p>
             <div>
-                <h2 id="journey">Huiyis programming journey</h2>
+                <h2>Huiyis programming journey</h2>
                 <p> 
                     Back in 2012 Huiyi briefly started learning basic C++, and that introduced her to the programming world, where she finds herself most comfortable and passionate.
                     Life took a different turn though for a couple of years, moving from China to Sweden, studying sustainable development, meeting a husband and getting two cats before once again taking up programming.
@@ -19,7 +19,7 @@ const PersonalLetter = () => {
                 </p>
             </div>
             <div>
-                <h2 id="personality">How is Huiyi as a worker?</h2>
+                <h2>How is Huiyi as a worker?</h2>
                 <p>Huiyi is very focused when she is working, and she can stay focused for hours once she finds something she is really interested in. 
                 Huiyi enjoys learning new knowledge in programming, she often reflects on work done and how to make further improvements.
                 A good work week should end with a feeling of accomplishment and value.
@@ -31,7 +31,7 @@ const PersonalLetter = () => {
                 </p> 
             </div>
             <div>
-                <h2 id="more">How is Huiyi as a person?</h2>
+                <h2>How is Huiyi as a person?</h2>
                 <p>
                     Huiyi has a great sense of humor, she jokes and laughs a lot. Actually, putting aside every consideration, her favorite and dream job would be as a comedy screenwriter, or actress, who knows.
                     In her spare time, Huiyi also likes to make things. She has crafted her own jewelry and home decoration. Yes, Huiyi is a big fan of handmade items. 
