@@ -35,6 +35,7 @@ const Skills = () => {
                     <p>JavaScript</p>
                     <p>jQuery</p>
                     <p>React</p>
+                    <p>React Native</p>
                     <p>Redux (currently learning)</p>
                 </div>
             </div>
