@@ -50,6 +50,14 @@ const Skills = () => {
                     <p>JPA</p>
                 </div>
             </div>
+            <div className="skill">
+                <div>
+                    <h4 className="skill-name">Others</h4> 
+                </div>
+                <div className="skill-description">
+                    <p>Git</p>
+                </div>
+            </div>
         </div>
     </>    
     )
