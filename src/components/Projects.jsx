@@ -172,7 +172,7 @@ const Projects = () => {
                 </div>
                 <div className="back">
                     <h4>Knowledge management app</h4>
-                    <p>A mobil app for the Malmö company Knologram. The app fetches a series of posts from a built API, and it contains three screens. Techniques used: FlatList, TouchableOpacity, ActivityIndicator and Navigation.
+                    <p>A mobil app for the Malmö company Knologram.  The app navigates among several screens and can fetch and dynamically display different types of data (text, video, picture, etc) from APIs build by WordPress. 
                     </p>
                     <a href="https://expo.io/@hui1010/projects/KonwledgeManagement" target="_blank">Check here!</a>
                 </div>
