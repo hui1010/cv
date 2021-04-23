@@ -174,7 +174,8 @@ const Projects = () => {
                     <h4>Knowledge management app</h4>
                     <p>A mobil app for the Malmö company Knologram.  The app navigates among several screens and can fetch and dynamically display different types of data (text, video, picture, etc) from APIs built by WordPress. 
                     </p>
-                    <a href="https://expo.io/@hui1010/projects/KonwledgeManagement" target="_blank">Check here!</a>
+                    <a href="https://expo.io/@hui1010/projects/KonwledgeManagement" target="_blank">Check here for the app!</a> <br/>
+                    <a href="https://github.com/hui1010/knowledge-management" target="_blank">Check here for the source code!</a>
                 </div>
             </div>
         </div>
