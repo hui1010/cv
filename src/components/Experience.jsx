@@ -22,7 +22,7 @@ const Experience = () => {
                     <h4>2021.4 - now</h4>
                     <h4>Mobil App Developer</h4>
                     <p>
-                       A Malmö company founded by my friends. I help them in my spare time to make a mobil app using React Native. The app navigates among several screens and can fetch and dynamically display different types of data (text, video, picture, etc) from APIs build by WordPress. 
+                       A Malmö company founded by my friends. I help them in my spare time to make a mobil app using React Native. The app navigates among several screens and can fetch and dynamically display different types of data (text, video, picture, etc) from APIs built by WordPress. 
                     </p>
                 </div>
             </li>

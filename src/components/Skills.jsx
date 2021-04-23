@@ -36,7 +36,7 @@ const Skills = () => {
                     <p>jQuery</p>
                     <p>React</p>
                     <p>React Native</p>
-                    <p>Redux (currently learning)</p>
+                    <p>Redux</p>
                 </div>
             </div>
             <div className="skill">
