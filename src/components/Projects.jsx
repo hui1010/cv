@@ -172,8 +172,7 @@ const Projects = () => {
                 </div>
                 <div className="back">
                     <h4>Knowledge management app</h4>
-                    <p>A mobil app for the Malmö company Knologram. The app fetches a series of posts from a built API, and it contains to screens. First screen is the list of all posts' titles, 
-                        click on the title will leads you to the second screen which contains more detailed information of the very post.
+                    <p>A mobil app for the Malmö company Knologram. The app fetches a series of posts from a built API, and it contains three screens. Techniques used: FlatList, TouchableOpacity, ActivityIndicator and Navigation.
                     </p>
                     <a href="https://expo.io/@hui1010/projects/KonwledgeManagement" target="_blank">Check here!</a>
                 </div>
