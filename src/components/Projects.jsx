@@ -8,6 +8,7 @@ const Projects = () => {
     return (
         <>
         <Header text="Projects" />
+        <p className = "notice"><strong>Notice:</strong> Hi, I am using Heroku as my cloud application platform for all of my projects that relate to front-end. Thus it may take a few seconds to open some links.</p>
         <div className="projects">
         <div className="project backend">
             <div className="project-inner">
