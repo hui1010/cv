@@ -160,7 +160,13 @@ const Projects = () => {
                     <p className="icons"><SiReact /> + <SiRedux /></p>
                 </div>
                 <div className="back">
-                    <h4>Coming soon...</h4>
+                    <h4>BMI weight calculator</h4>
+                    <p className="info">
+                        A simple web application using react-redux as state manager. Take in user's height and weight, then calculate out his/her BMI value and ideal weight according to BMI. Results are displayed in beautiful bar form with dynamic indicators.
+                    </p>
+                    <a href="https://bmi-weight-calculator.herokuapp.com/" target="_blank">Check here!</a> <br/>
+                    <a href="https://github.com/hui1010/bmi-react-redux" target="_blank">Check source code!</a>
+
                 </div>
             </div>
         </div>
