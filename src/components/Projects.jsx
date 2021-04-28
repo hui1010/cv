@@ -1,6 +1,8 @@
 import React from 'react'
 import {SiJava, SiSpring, SiHtml5, SiCss3, SiJavascript, SiJquery, SiReact, SiWordpress, SiRedux, SiBootstrap, SiPhp} from 'react-icons/si'
 import {GrMysql} from 'react-icons/gr'
+import {FiSmartphone} from 'react-icons/fi'
+
 
 import Header from './Header'
 
@@ -175,7 +177,7 @@ const Projects = () => {
             <div className="project-inner">
                 <div className="front">
                     <h2>React Native</h2>
-                    <p className="icons"><SiReact /></p>
+                    <p className="icons"><SiReact /> + <FiSmartphone /></p>
                 </div>
                 <div className="back">
                     <h4>Knowledge management app</h4>
