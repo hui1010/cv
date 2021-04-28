@@ -14,12 +14,11 @@ const PersonalLetter = () => {
                 <h2>Huiyis programming journey</h2>
                 <p> 
                     Back in 2012 Huiyi briefly started learning basic C++, and that introduced her to the programming world, where she finds herself most comfortable and passionate.
-                    Life took a different turn though for a couple of years, moving from China to Sweden, studying sustainable development, meeting a husband and getting two cats before once again taking up programming.
-                    
+                    Life took a different turn though for a couple of years, moving from China to Sweden, studying sustainable development, meeting a husband and getting two cats before once again taking up programming.   
+                </p>
+                <p>
                     When Huiyi was strugging with thinking up new project ideas and find finacial support at Miljöfordon, she downloaded Visual Studio Code and wrote her very first line of code in many years - "hello world". It didn't go well for the first time, but it felt well. And it felt right. 
-                    This was the thing she has alway Wanted to do. At that moment she made her decision to become a real coder.   
-                    
-                    This time for good! It's now a large part of her life, taking up most evenings of the week.
+                    This was the thing she has alway Wanted to do. At that moment she made her decision to become a real coder. This time for good! It's now a large part of her life, taking up most evenings of the week.
                 </p>
             </div>
             <div>
