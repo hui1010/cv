@@ -28,55 +28,6 @@ const Projects = () => {
                 </div>
             </div>
         </div>
-        <div className="project react">
-            <div className="project-inner">
-                <div className="front">
-                    <h2>React Redux</h2>
-                    <p className="icons"><SiReact /> + <SiRedux /></p>
-                </div>
-                <div className="back">
-                    <h4>BMI weight calculator</h4>
-                    <p className="info">
-                        A simple web application using react-redux as state manager. Take in user's height and weight, then calculate out his/her BMI value and ideal weight according to BMI. Results are displayed in beautiful bar form with dynamic indicators.
-                    </p>
-                    <a href="https://bmi-weight-calculator.herokuapp.com/" target="_blank">Check here!</a> <br/>
-                    <a href="https://github.com/hui1010/bmi-react-redux" target="_blank">Check source code!</a>
-
-                </div>
-            </div>
-        </div>
-        <div className="project react">
-            <div className="project-inner">
-                <div className="front">
-                    <h2>React Redux</h2>
-                    <p className="icons"><SiReact /> + <SiRedux /></p>
-                </div>
-                <div className="back">
-                    <h4>Astrology + Zodiac + Advice</h4>
-                    <p className="info">
-                        The funniest and most shared among friends project I've made! Besides basic astrology and zodiac information and beautiful paintings, the user also receives a personal or random advices according to the entered birth date. 
-                    </p>
-                    <a href="https://astrology-zodiac.herokuapp.com/" target="_blank">TIY(Try It Yourself)</a> <br/>
-                    <a href="https://github.com/hui1010/astrology-zodiac" target="_blank">Check source code!</a>
-
-                </div>
-            </div>
-        </div>
-        <div className="project react">
-            <div className="project-inner">
-                <div className="front">
-                    <h2>React Native</h2>
-                    <p className="icons"><SiReact /> + <FiSmartphone /></p>
-                </div>
-                <div className="back">
-                    <h4>Knowledge management app</h4>
-                    <p>A mobil app for the Malmö company Knologram.  The app navigates among several screens and can fetch and dynamically display different types of data (text, video, picture, etc) from APIs built by WordPress. 
-                    </p>
-                    <a href="https://expo.io/@hui1010/projects/KonwledgeManagement" target="_blank">Check here for the app!</a> <br/>
-                    <a href="https://github.com/hui1010/knowledge-management" target="_blank">Check here for the source code!</a>
-                </div>
-            </div>
-        </div>
         <div className="project backend">
             <div className="project-inner">
                 <div className="front">
@@ -206,7 +157,55 @@ const Projects = () => {
                 </div>
             </div>
         </div>
-        
+        <div className="project react">
+            <div className="project-inner">
+                <div className="front">
+                    <h2>React Redux</h2>
+                    <p className="icons"><SiReact /> + <SiRedux /></p>
+                </div>
+                <div className="back">
+                    <h4>BMI weight calculator</h4>
+                    <p className="info">
+                        A simple web application using react-redux as state manager. Take in user's height and weight, then calculate out his/her BMI value and ideal weight according to BMI. Results are displayed in beautiful bar form with dynamic indicators.
+                    </p>
+                    <a href="https://bmi-weight-calculator.herokuapp.com/" target="_blank">Check here!</a> <br/>
+                    <a href="https://github.com/hui1010/bmi-react-redux" target="_blank">Check source code!</a>
+
+                </div>
+            </div>
+        </div>
+        <div className="project react">
+            <div className="project-inner">
+                <div className="front">
+                    <h2>React Redux</h2>
+                    <p className="icons"><SiReact /> + <SiRedux /></p>
+                </div>
+                <div className="back">
+                    <h4>Astrology + Zodiac + Advice</h4>
+                    <p className="info">
+                        The funniest and most shared among friends project I've made! Besides basic astrology and zodiac information and beautiful paintings, the user also receives a personal or random advices according to the entered birth date. 
+                    </p>
+                    <a href="https://astrology-zodiac.herokuapp.com/" target="_blank">TIY(Try It Yourself)</a> <br/>
+                    <a href="https://github.com/hui1010/astrology-zodiac" target="_blank">Check source code!</a>
+
+                </div>
+            </div>
+        </div>
+        <div className="project react">
+            <div className="project-inner">
+                <div className="front">
+                    <h2>React Native</h2>
+                    <p className="icons"><SiReact /> + <FiSmartphone /></p>
+                </div>
+                <div className="back">
+                    <h4>Knowledge management app</h4>
+                    <p>A mobil app for the Malmö company Knologram.  The app navigates among several screens and can fetch and dynamically display different types of data (text, video, picture, etc) from APIs built by WordPress. 
+                    </p>
+                    <a href="https://expo.io/@hui1010/projects/KonwledgeManagement" target="_blank">Check here for the app!</a> <br/>
+                    <a href="https://github.com/hui1010/knowledge-management" target="_blank">Check here for the source code!</a>
+                </div>
+            </div>
+        </div>
     </div>
     </>
     )
