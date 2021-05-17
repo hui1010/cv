@@ -56,6 +56,7 @@ const Skills = () => {
                 </div>
                 <div className="skill-description">
                     <p>Git</p>
+                    <p>Jira</p>
                 </div>
             </div>
         </div>
