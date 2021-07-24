@@ -16,10 +16,22 @@ const Experience = () => {
         <ul>
             <li>
                 <div>
+                    <a href="https://www.igt.com/">
+                        <img  src={igtLogo} alt=""/>
+                    </a>
+                    <h4>2021.5 - 2021.8</h4>
+                    <h4>Web programmer</h4>
+                    <p>
+                        Worked in IGT's back office with project Pitboss. Using Axure to design web page and Css, JavaScript to implement the design. Got myself familiar with SVN and Bitbucket code manage system as well as Jira. 
+                    </p>
+                </div>
+            </li>
+            <li>
+                <div>
                     <a href="https://www.knologram.com/">
                       <img src={knologramLogo} alt=""/>  
                     </a>
-                    <h4>2021.4 - now</h4>
+                    <h4>2021.4 - 2021.5</h4>
                     <h4>Mobil App Developer</h4>
                     <p>
                        A Malmö company founded by my friends. I help them in my spare time to make a mobil app using React Native. The app navigates among several screens and can fetch and dynamically display different types of data (text, video, picture, etc) from APIs built by WordPress. 
