@@ -7,6 +7,7 @@ import lnuLogo from '../images/lnu-logo.png'
 import miljofordonLogo from '../images/miljofordon-logo.png'
 import igtLogo from '../images/igt-logo.png'
 import knologramLogo from '../images/knologram-logo.png'
+import istLogo from '../images/IST.png'
 
 const Experience = () => {
     return (
@@ -16,8 +17,8 @@ const Experience = () => {
                 <ul>
                     <li>
                         <div>
-                            <a href="https://www.igt.com/">
-                                <img src={igtLogo} alt="" />
+                            <a href="https://www.ist.com/se/">
+                                <img src={istLogo} alt="" />
                             </a>
                             <h4>2021.8 - Now</h4>
                             <h4>Software developer</h4>
